@@ -1,4 +1,4 @@
-# ZSH_terminal_setup
+# ZSH terminal setup
 Install zsh, oh-my-zsh and zinit:
 ```bash
 sudo apt insall zsh
