@@ -1,4 +1,5 @@
 # ZSH_terminal_setup
+Install zsh, oh-my-zsh and zinit:
 ```bash
 sudo apt insall zsh
 sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
