@@ -1,7 +1,7 @@
 # ZSH terminal setup
 Install zsh, oh-my-zsh and zinit:
 ```bash
-sudo apt install zsh
+sudo apt install zsh curl git -y
 sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/zdharma/zinit/master/doc/install.sh)"
 ```
