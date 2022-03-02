@@ -3,7 +3,7 @@ Install zsh, oh-my-zsh and zinit:
 ```bash
 sudo apt install zsh curl git -y
 sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/zdharma-continuum/zinit/v3.7/doc/install.sh)"
+sh -c "$(curl -fsSL https://git.io/zinit-install)"
 ```
 This goes into ~/.zshrc:
 ```bash
